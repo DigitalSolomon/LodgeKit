@@ -1,4 +1,4 @@
-Society
+LodgeKit
 =======
 
-An iOS app for managing fraternal organizations.
+An iOS framework & sample containing app for managing fraternal organizations.
